@@ -4,7 +4,7 @@ I created this repository to showcase my learning journey in <b>Machine Learning
 <b>Key Highlights:</b>
 <ul>
   <li>Implementation of basic and advanced ML algorithms</li>
-  <li>Use of Python libraries like <code>scikit-learn</code>, <code>pandas</code>, <code>matplotlib</code>, and <code>numpy</code></li>
+  <li>Use of Python libraries like <code>scikit-learn</code>, <code>pandas</code>, <code>matplotlib</code>, and <code>numpy</code></li> and many mores.
   <li>Practical examples on classification, regression, clustering, and more</li>
 </ul>
 
